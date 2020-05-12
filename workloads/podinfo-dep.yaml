@@ -59,7 +59,7 @@ spec:
         - name: PODINFO_UI_COLOR
           value: "#34577c"
         - name: PODINFO_UI_MESSAGE
-          value: "Welcome to Tidal's Flux"
+          value: "Welcome again to Tidal's Flux"
         livenessProbe:
           httpGet:
             path: /healthz
